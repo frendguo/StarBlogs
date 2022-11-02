@@ -3,7 +3,7 @@
 
 ## Windows 内核
 
-- [Pavel Yosifovich](https://scorpiosoftware.net/): Windows 大佬。包含 Windows 内核机制、应用原理等
+- [Pavel Yosifovich](https://scorpiosoftware.net/): Windows 内核编程作者
 
 
 ## 逆向
